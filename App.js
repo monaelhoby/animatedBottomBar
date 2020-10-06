@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, View } from "react-native";
 
-import Tabbar from "./screen/Tabbar";
+import Tabbar from "./tabNavigation/Tabbar";
 
 
 
